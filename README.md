@@ -1,4 +1,4 @@
-# Digit Classifier
+# GlyphNet
 
 An interactive computer vision demo that turns a handwritten digit into a prediction—and makes the steps behind that prediction visible.
 
